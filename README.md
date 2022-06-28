@@ -18,7 +18,7 @@ I'm a Full stack developer and this github is mainly used for personal projects.
 
 ## Projects
 [![House Design Gallery](https://github-readme-stats.vercel.app/api/pin/?username=ffrancacorrea&repo=house-design-gallery&theme=material-palenight)](https://github.com/ffrancacorrea/house-design-gallery)
-[![Country Cards](https://github-readme-stats.vercel.app/api/pin/?username=ffrancacorrea&repo=country-cards&theme=material-palenight)](https://github.com/ffrancacorrea/ffrancacorrea/country-cards)
+[![Country Cards](https://github-readme-stats.vercel.app/api/pin/?username=ffrancacorrea&repo=country-cards&theme=material-palenight)](https://github.com/ffrancacorrea/country-cards)
 
 ## Stats
 
