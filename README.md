@@ -2,7 +2,7 @@
 
 I'm a Full stack developer and this github is mainly used for personal projects.
 
-👀 Check out my [Personal Portfolio](http://fernandafcorrea.com/)
+👀 Check out my [Personal Portfolio](https://fernanda-correa.web.app/)
 ## Tech Stack:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
